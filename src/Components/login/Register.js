@@ -69,7 +69,7 @@ const Register = () => {
           return (
             <>
               <div className='sign-box'>
-                <h1>Created an Account Successfully</h1> */}
+                <h1>Created an Account Successfully</h1> 
                 <h3>
                   Name : <p>{cureentValue.name}</p>
                 </h3>
